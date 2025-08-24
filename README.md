@@ -13,7 +13,7 @@ Este proyecto es una aplicación de consola que permite gestionar tareas, agrega
 
 ## Datos del grupo
 
-- **Nombre del grupo**: [Tu nombre o el de tu grupo]
+- **Nombre del grupo**: ASHLEY ANNABELLE CARRERA RUIZ 
 - **Fecha**: 24 de agosto de 2025
 
 ## Objetivo del programa
