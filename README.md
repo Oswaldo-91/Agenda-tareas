@@ -15,9 +15,6 @@ Este proyecto es una aplicación de consola que permite gestionar tareas, agrega
 
 <<<<<<< HEAD
 - **Nombre del grupo**: ASHLEY ANNABELLE CARRERA RUIZ
-=======
-- **Nombre del grupo**: ASHLEY ANNABELLE CARRERA RUIZ 
->>>>>>> 10065d853b8972d67a3d2da8e16a5fe94c37be1b
 - **Fecha**: 24 de agosto de 2025
 
 ## Objetivo del programa
